@@ -1,1 +1,3 @@
 print Hello Folder A
+
+print Hello B
